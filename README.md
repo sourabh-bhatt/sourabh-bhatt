@@ -1,12 +1,11 @@
 ### Hi there 👋
 
-- 🧑🏻‍💻 I'm Sourabh Bhatt
+- 🧑🏻‍💻 I'm **Sourabh Bhatt**
 - 🏫 I'm sophomore at **MAC DU** :)
 - 🌱 I’m currently learning **DATA SCIENCE** :)
-- 👯 I’m looking to collaborate on Web3, startup, projects, devrel :)
-- 😄 I’m looking to collaborate on TECH Podcasts :)
-- ⚡ Revolutionary Step:- I have taken 365 DAYS DATA SCIENCE CHALLENGE :)
-- 📫 Connet me on **[LinkedIn](https://www.linkedin.com/in/sourabh-bhatt/)**
+- 👯 I’m looking to collaborate on **Web3, startup, projects, devrel** :)
+- 😄 I’m looking to collaborate on **TECH Podcasts** :)
+- ⚡ Revolutionary Step:- I have taken **365 DAYS DATA SCIENCE CHALLENGE** :)
 
 ## 🚀 Languages and Tools:
 

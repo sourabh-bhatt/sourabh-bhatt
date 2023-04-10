@@ -19,6 +19,8 @@
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
 </p>
 
+<a href="https://app.daily.dev/sourabh__"><img src="https://api.daily.dev/devcards/79c6cfe1bf494db09ebcffb929a832cd.png?r=jnz" width="400" alt="Sourabh Bhatt's Dev Card"/></a>
+
 ## Connect with me:
 
 <p align="left">

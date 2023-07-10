@@ -4,19 +4,21 @@
 
 
 - 🧑🏻‍💻 I'm **Sourabh Bhatt**
-- 🏫 I'm sophomore at **MAC DU** :)
-- 🌱 I’m currently learning **DATA SCIENCE** :)
-- 👯 I’m looking to collaborate on **Web3, startup, projects, devrel** :)
-- 😄 I’m looking to collaborate on **TECH Podcasts** :)
-- ⚡ Revolutionary Step:- I have taken **365 DAYS DATA SCIENCE CHALLENGE** :)
+- 🏫 I'm recent graduate from **Maharaja Agrasen College** :)
+- 🌱 I’m currently learning **Web Development** :)
+- 👯 I’m looking to collaborate on **Development, Engineering, Design, Daatabases and Documentation** :)
+- 😄 I’m looking to collaborate on **TECH PODCASTS** :)
+- ⚡ Revolutionary Step:- I have taken **30 Days of Java Script Challenge** :)
 
 ## 🚀 Languages and Tools:
 
 <p align="left">
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-     <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/ios/50/000000/flask.png" width="60" height="60"/></a>
+    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/ios/50/000000/flask.png" width="60" height="60"/></a>
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
+    <a href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/ultraviolet/40/000000/react.png"/> </a> 
 </p>
 
 ## Connect with me:
@@ -27,6 +29,7 @@
 <a href = "https://www.instagram.com/sourabh__bhatt/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://twitter.com/Sourabh__Bhatt"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.youtube.com/channel/UCg2GuImYOv5m47tgIjylWHA/videos"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://sourbhatt.hashnode.dev/"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress"/></a>
 
 </p>
 

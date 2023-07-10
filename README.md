@@ -29,7 +29,6 @@
 <a href = "https://www.instagram.com/sourabh__bhatt/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://twitter.com/Sourabh__Bhatt"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.youtube.com/channel/UCg2GuImYOv5m47tgIjylWHA/videos"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-<a href = "https://sourbhatt.hashnode.dev/"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress"/></a>
 
 </p>
 
